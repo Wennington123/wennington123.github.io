@@ -32,7 +32,7 @@ Hospedado no GitHub Pages — qualquer push no branch `main` publica automaticam
 
 ## Contato
 
-- 📧 Email: wennington.dias@gmail.com
+- 📧 Email: wenningtondiasx25@gmail.com
 - 🐙 GitHub: [@Wennington123](https://github.com/Wennington123)
 - 🦊 GitLab: [@wenningtondiasx25](https://gitlab.com/wenningtondiasx25)
 - 💼 LinkedIn: [Wennington Dias](https://www.linkedin.com/in/wennington-dias-23201b325/)
